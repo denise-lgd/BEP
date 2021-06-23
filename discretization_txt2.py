@@ -12,8 +12,6 @@ import math
 import Pathfinding_algorithms_functions as pfa
 import time
 
-#20 point layout:
-#file_name = 'input a_star.txt'
 #800 point layout:
 file_name = 'array_400_linker_test.cif'
 

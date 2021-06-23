@@ -374,4 +374,4 @@ feature_array_transformed = mirror_plot(total_feature_array, paths, dimensions)
 
 
 #execution kNN
-#paths, total_path_length, total_time = execute_astar(total_feature_array, start_to_goal, centres, dimensions)  
+paths, total_path_length, total_time = execute_astar(total_feature_array, start_to_goal, centres, dimensions)  
